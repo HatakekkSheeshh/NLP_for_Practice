@@ -2,7 +2,7 @@
 
 Repository chứa các bài tập và dự án thực hành về Xử lý Ngôn ngữ Tự nhiên (Natural Language Processing).
 
-## � Nội dung
+## Nội dung
 
 ### 1. [Preprocessing](./Preprocessing)
 Các bài tập về tiền xử lý văn bản cho tiếng Anh và tiếng Việt:
@@ -15,27 +15,28 @@ Các bài tập về tiền xử lý văn bản cho tiếng Anh và tiếng Vi�
 ### 2. Word Embedding
 *Loading...*
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - **Python 3.x**
 - **Jupyter Notebook**
-- Các thư viện NLP: `nltk`, `spacy`, `transformers`, `underthesea`, `pyvi`
-- Các thư viện ML/DL: `scikit-learn`, `tensorflow`, `pytorch`
+- Các thư viện cơ bản: `string`, `re`, `urllib`, `typing`
+- Thư viện NLP: `nltk` (tokenization, stopwords, lemmatization)
+- Thư viện khác: `numpy`
 
-## 🚀 Cài đặt
+## Cài đặt
 
 ```bash
 # Clone repository
 git clone <repository-url>
 ```
 
-## 📝 Ghi chú
+## Ghi chú
 
 - Mỗi thư mục con có README riêng với hướng dẫn chi tiết
 - Code được viết với mục đích học tập và thực hành
 - Dataset được lưu trong từng thư mục tương ứng
 
-## 📖 Tài liệu tham khảo
+## Tài liệu tham khảo
 
 - [NLTK Documentation](https://www.nltk.org/)
 - [spaCy Documentation](https://spacy.io/)
